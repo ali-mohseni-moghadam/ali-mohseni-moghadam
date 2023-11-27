@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-mohseni-moghadam&label=Profile%20views&color=0e75b6&style=flat" alt="ali-mohseni-moghadam" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://alimohsenimoghadam.ir](https://alimohsenimoghadam.ir)
 
