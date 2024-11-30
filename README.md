@@ -1,3 +1,28 @@
-<h1 align="center">Hi 👋, I'm ali mohseni moghadam</h1>
-<h2 align="center">Front-End Developer</h2>
+## 🚀 About Me
+I'm a front end developer...
+
+
+# Hi, I'm Ali! 👋
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alimohsenimoghadam.ir/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/ali-mohseni-moghadam/)/)
+
+
+## Other Common Github Profile Sections
+I'm currently working on Ontask Project
+
+I'm currently learning Python
+
+I'm looking to collaborate on ``` Nothing ```
+
+I'm looking for help with ``` Nothing ```
+
+Ask me about Js, Ts, React.JS, Next.JS
+
+How to reach me : mohsenimoghadamali@gmail.com
+
+## 🛠 Skills
+HTML, CSS, Javascript, Typescript, React.Js, Next.Js, Tailwind, Shadcn ...
 
