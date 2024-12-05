@@ -13,12 +13,6 @@ I'm a front end developer...
 ## Other Common Github Profile Sections
 I'm currently working on Ontask Project
 
-I'm currently learning Python
-
-I'm looking to collaborate on ``` Nothing ```
-
-I'm looking for help with ``` Nothing ```
-
 Ask me about Js, Ts, React.JS, Next.JS
 
 How to reach me : mohsenimoghadamali@gmail.com
