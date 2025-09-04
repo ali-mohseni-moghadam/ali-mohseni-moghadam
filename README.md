@@ -20,3 +20,7 @@ How to reach me : mohsenimoghadamali@gmail.com
 ## 🛠 Skills
 HTML, CSS, Javascript, Typescript, React.Js, Next.Js, Tailwind, Shadcn, MaterialUI ...
 
+## 📚 Currently Learning  
+- 🚀 DevOps basics with Docker & Ubuntu  
+- 🌐 Backend with Python (Django)  
+- ☁️ Cloud & Deployment (Nginx, PM2, VPS)  
