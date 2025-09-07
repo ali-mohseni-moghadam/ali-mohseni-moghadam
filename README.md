@@ -1,26 +1,26 @@
-## 🚀 About Me
-I'm a front end developer...
+# Ali Mohseni Moghadam
 
+Front-end developer crafting clean, efficient, and user-focused web experiences.
 
-# Hi, I'm Ali! 👋
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alimohsenimoghadam.ir/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/ali-mohseni-moghadam/)/)
-
-
-## Other Common Github Profile Sections
-I'm currently working on Taghavi-Print Project
-
-Ask me about Js, Ts, React.JS, Next.JS
-
-How to reach me : mohsenimoghadamali@gmail.com
+## 🔗 Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://alimohsenimoghadam.ir/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mohseni-moghadam/)
 
 ## 🛠 Skills
-HTML, CSS, Javascript, Typescript, React.Js, Next.Js, Tailwind, Shadcn, MaterialUI ...
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js
+- **UI/UX**: Tailwind CSS, Shadcn, Material-UI
+- **Tools**: Git, Webpack, Vite
 
-## 📚 Currently Learning  
-- 🚀 DevOps basics with Docker & Ubuntu  
-- 🌐 Backend with Python (Django)  
-- ☁️ Cloud & Deployment (Nginx, PM2, VPS)  
+## 🚀 Current Projects
+- **Taghavi-Print**: Building a responsive and scalable front-end solution.
+
+## 📚 Learning
+- DevOps: Docker, Ubuntu
+- Backend: Python (Django)
+- Deployment: Nginx, PM2, VPS
+
+## 💬 Ask Me About
+JavaScript, TypeScript, React.js, Next.js, or modern front-end workflows.
+
+## 📫 Contact
+- Email: [mohsenimoghadamali@gmail.com](mailto:mohsenimoghadamali@gmail.com)
