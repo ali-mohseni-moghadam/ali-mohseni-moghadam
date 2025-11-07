@@ -11,14 +11,6 @@ Front-end developer crafting clean, efficient, and user-focused web experiences.
 - **UI/UX**: Tailwind CSS, Shadcn, Material-UI
 - **Tools**: Git, Webpack, Vite
 
-## 🚀 Current Projects
-- **Taghavi-Print**: Building a responsive and scalable front-end solution.
-
-## 📚 Learning
-- DevOps: Docker, Ubuntu
-- Backend: Python (Django)
-- Deployment: Nginx, PM2, VPS
-
 ## 💬 Ask Me About
 JavaScript, TypeScript, React.js, Next.js, or modern front-end workflows.
 
